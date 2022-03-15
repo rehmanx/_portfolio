@@ -1,6 +1,6 @@
 # Portfolio
 Obaid ur rehman  
-Software engineer, CG environment artist
+Software engineer, CG environment artist  
 obaidurrehman164@gmail.com  
 +923342900636  
 Rawalpindi, Pakistan
