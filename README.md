@@ -32,11 +32,5 @@ _Tile size : 40m^2_
 
 ![Unity_wlONUzTXnF](https://user-images.githubusercontent.com/23467551/158054074-9a4828b5-e57d-4fe2-aa13-9e4ba86fa01f.gif)
 
- 
-### Location Tool (Technical artist)
-_Is an AI awareness/navigation system available as a unity editor plugin... using LocationTool any GameObject can be converted to a location, after a GameObject is converted to a location it's boundaries and important destinations in that location can be defined, the location can be duplicated and place around the level, The AI characters can than poll for interested locations at runtime for example _**During rain AI characters can search for nearest rain shelters and move there, until it stops raining**.__   
-_Example usage of LocationTool would be._
-
-
 
 ### Gameplay programming
