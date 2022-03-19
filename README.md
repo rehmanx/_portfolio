@@ -1,7 +1,7 @@
 # Portfolio
 Obaid ur rehman  
 Software engineer, CG environment artist      
-[ArtStation page](https://www.artstation.com/rehman13m)  
+[ArtStation page](https://rehman13.artstation.com/)  
 obaidurrehman164@gmail.com  
 +923342900636 (whatsapp)  
 Rawalpindi, Pakistan  
