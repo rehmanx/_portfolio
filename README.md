@@ -2,12 +2,14 @@
 Obaid ur rehman  
 Software engineer, CG environment artist  
 obaidurrehman164@gmail.com  
-+923342900636  
++923342900636 (whatsapp)
+ArtStation page https://www.artstation.com/rehman13
 Rawalpindi, Pakistan
 
 ### PandaEditor
 _PandaEditor is a unity or unreal style level/scene editor for Panda3d realtime rendering engine, although several editors for Panda3d already existed when I started working on PandaEditor, however most were either created to fullfill requirements on a per project basics or fell short of maintainance.   
 PandaEditor is a personal project of mine, it started with my ambition to increase my practical skills in software design and development....the best discription of PandaEditor is on it's official page._
+
 
 
 ### FastGrid
@@ -40,7 +42,16 @@ _McWorldDesigner is level design and objects scattering editor plugin for unity3
 2. _**foliage scattering**_
 3. _**creating roads**_
 4. _**rivers**_
-5. _**bridges etc for open world terrains.**_
+5. _**bridges etc. for open world terrains.**_
 
 _McWorldDesigner is a layer based painting tool with larger objects occupying top layers, an layer in McWorldDesigner acts similar to photoshop layers with individual scattering rules, paint options and properties._
-_A layer can have it's list of paint objects called a **PaintMesh**, each **PaintMesh** can have it's own spawn options, this provides a lot more fine control over placement of individual **PaintMeshes** and more predictable results.
+_A layer can have it's list of paint objects called a **PaintMesh**, each **PaintMesh** can have it's own spawn options, this provides a lot more fine control over placement of individual **PaintMeshes** and more predictable results._
+
+
+
+_**Some results achieved with McWorldDesigner**_
+
+
+
+### Open world environment production
+
